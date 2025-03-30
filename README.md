@@ -3,29 +3,22 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/michaeljwilt/michaeljwilt/blob/main/images/Hi.png" />
+<img src="images/Hi-Sine.jpg" />
 
 <p align="center">
-  I'm a student pursuing my degree in Data Science 💻 from Bethel School of Technology 🎒. My passion for data lies in what can be used to help improve people's lives for the better. I love exploring new modalities and finding ways to implement them into my every day life ✨. Currently, I am learning Machine Learning and Modeling 🧠.
+  I’m a designer learning to be a frontend developer. 🎨 <br>
+ Passionate about creating websites that are as beautiful to look at as they are to use. 💻
 </p>  
 
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=r"/>
-
+ 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+<!-- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/> -->
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-
-<img src="https://img.shields.io/badge/-DJango-black?style=flat-square&logo=django"/>
-<img src="https://img.shields.io/badge/-Tensor Flow-black?style=flat-square&logo=tensorflow"/>
 
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
@@ -34,11 +27,11 @@
 <h2 align="center">Reach me at <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<a href="mailto: michaeljwilt@outlook.com">
- <img src="https://img.shields.io/badge/-michaeljwilt-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaeljwilt@outlook.com"/>
+<a href="mailto: sine.wilt22@gmail.com">
+ <img src="https://img.shields.io/badge/-sinecwilt-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sine.wilt22@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/michaeljwilt/">
- <img src="https://img.shields.io/badge/-michaeljwilt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaeljwilt/"/>
+<a href="https://www.linkedin.com/in/sine-wilt-49b497352/">
+ <img src="https://img.shields.io/badge/-sinecwilt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaeljwilt/"/>
 </a>
  
 </a>
@@ -59,16 +52,16 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=michaeljwilt&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljwilt&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=sinecwilt&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sinecwilt&hide=html,css,java&theme=radical">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljwilt&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sinecwilt&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=michaeljwilt&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=sinecwilt&theme=redical">
 </p> 
 <hr>
 <p align="center">⭐</p>
